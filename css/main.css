@@ -1,0 +1,671 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    width: 1245px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: flex;
+    margin-top: 98px;
+}
+
+.header-logo {
+    margin-right: 324px;
+}
+
+.navigition ul li {
+    display: inline-block;
+}
+
+.menu-links a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+   
+}
+
+.menu-link a {
+    padding: 40px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.section-groop {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.virtual-text {
+    width: 427px;
+    height: 112px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+
+}
+
+.text-paraghaf {
+    width: 445px;
+    height: 96px;
+    margin-top: 25px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+}
+
+.consult {
+    margin-top: 48px;
+    width: 200px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 60px;
+    background: #458FF6;
+    color: #fff;
+    border: none;
+    border-radius: 55px;
+}
+
+.images-doctor {
+    margin-top: 84px;
+    margin-left: 109px;
+}
+
+.section_text {
+    margin-top: 219px;
+}
+.our-services {
+    width: 212px;
+    height: 56px;
+    margin-top: 219px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.span-info {
+    margin-top: 26px;
+    margin-bottom: 33px;
+    width: 56px;
+    height: 2px;
+    background: #000000;
+    border-radius: 5px;
+}
+
+.our-services_text {
+    width: 952px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #7D7987;
+
+}
+
+.box-sixe {
+  margin-top: 78px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.rums {
+    background: #FFFFFF;
+    width: 350px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding: 50px 35px 50px 35px;
+    box-sizing: border-box;
+    margin-bottom: 37px;
+}
+
+.online-pha {
+    padding-top: 13px;
+    padding-left: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.services_tex-buy {
+    width: 261px;
+    height: 84px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.online_pharmacy {
+    width: 196px;
+    height: 56px;
+    padding-top: 15px;
+    padding-right: 68px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+
+}
+
+.simple-buy {
+    width: 261px;
+    height: 84px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.consultation {
+    width: 145px;
+    height: 56px;
+    padding-top: 2px;
+    padding-right: 122px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+    
+}
+
+.details-info {
+    width: 130px;
+    height: 56px;
+    padding-top: 7px;
+    padding-right: 130px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.care_emergency {
+    width: 182px;
+    height: 56px;
+    padding-top: 25px;
+    padding-right: 88px ;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.lovely_family {
+    width: 266px;
+    height: 84px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.tracking {
+    width: 98px;
+    height: 56px;
+    padding-right: 165px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.medical-history {
+    width: 261px;
+    height: 56px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+
+}
+
+.gootgen {
+    text-align: center;
+    margin-top: 74px;
+}
+
+.button-link {
+    width: 200px;
+    height: 56px;
+    border: 1.4px solid #458FF6;
+    background-color: #fff;
+    border-radius:50px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;  
+}
+
+.section-there_doctor {
+    display: flex;
+    justify-content:center ;
+    align-items:center;
+}
+
+.image-doctor2 {
+    margin-top: 162px;
+}
+
+.section-text-lhp {
+    margin-top: 170px;
+   margin-left: 142px;
+
+}
+
+.leading-text {
+    width: 481px;
+    height: 112px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.span-worch {
+    width: 56px;
+    height: 2px;
+    margin-top: 26px;
+    margin-right:425px ;
+    margin-bottom: 31px;
+    background: #000000;
+    border-radius: 10px;
+}
+
+.owshin_p {
+    width: 450px;
+    height: 120px;
+    margin-right: 35px;
+    margin-bottom: 37px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.button_more {
+    width: 200px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    background-color: #fff;
+}
+
+.section_four {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-our {
+margin-left: 60px;
+}
+
+.download-our {
+    width: 254px;
+    height: 96px;
+    margin-top: 265px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000000;
+    }
+
+    .firth-goos {
+        width: 56px;
+        height: 2px;
+        margin-top: 30px;
+        margin-bottom: 31px;
+        margin-left: 173px;
+        background: #000000;
+        border-radius: 6px;
+    }
+
+    .our-dedicated {
+        width: 420px;
+        height: 120px;
+        margin-left: 170px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 30px;
+        color: #7D7987;
+    }
+
+    .images-download {
+        width: 200px;
+        height: 58px; 
+        border-radius: 55px;
+        border: 1.4px solid #458FF6;
+        margin-top: 40px;
+        margin-left: 165px;
+        padding: 20px 40px;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 60px;
+        display: flex;
+        align-items: center;  
+        font-weight: 700;
+        background-color: #fff;
+        color: #458FF6
+    }
+
+    .icon-img {
+        margin: 0;
+        padding: 15px;
+    }
+
+    .web-portal_img {
+        margin-top: 250px;
+        margin-left: 71px;
+    }
+    
+    .arrow_nav {
+        width: 1120px;
+        height: 425px;
+        margin-top: 269px;
+        background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+        border-radius: 24px;
+    }
+
+    .customer-our {
+        width: 522px;
+        height: 48px;
+        padding-top: 61px;
+        font-style: normal;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 48px;
+        color: #FFFFFF;
+    }
+
+    .dedicated {
+        width: 56px;
+        height: 2px;
+        margin-top: 25px;
+        margin-bottom: 30px;
+        background: #FFFFFF;
+        border-radius: 6px;
+    }
+
+    .corusel-card_info {
+        display: flex;
+        justify-content: space-around;
+        align-items:center;
+    }
+
+    .group-img {
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+
+    .example1 {
+        display:inline-block;
+        margin-top: 60px;
+        margin-right: 150px;
+    }
+
+    .edward-n {
+        display: inline-block;
+        font-style: normal;
+        font-size: 18px;
+        font-weight: 700;
+        color: #FFFFFF;
+    }
+
+     .founder-c {
+        display: block;
+        margin: 0;
+         font-style: normal;
+         font-size: 18px;
+         font-weight: 400;
+         color: rgba(255, 255, 255, 0.85);
+         line-height: 48px;
+    }
+
+    .you-to_access {
+        width: 420px;
+        height: 120px;
+        margin-top: 40px;
+        margin-right: 110px;
+        font-style: normal;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 30px;
+        color: rgba(255, 255, 255, 0.9);
+    }
+
+    .arrow-nav_img {
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 222px;
+    }
+   
+    .check-out_latest {
+        width: 462px;
+        height: 56px;
+        font-style: normal;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 56px;
+        color: #000000;
+    }
+
+    .article3 {
+        width: 56px;
+        height: 2px;
+        margin-top: 26px;
+        margin-bottom: 72px;
+        text-align: center;
+        border-radius: 5px;
+        background: #000000;
+    }
+
+    .laboratory {
+        display: flex;
+        justify-content: space-around;
+        align-items:center;
+    }
+
+    .laboratory-text {
+        background: #FFFFFF;
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+        border-radius: 20px;
+    }
+
+    .herbal-medicines {
+        width: 251px;
+        height: 64px;
+        margin: 0;
+        padding-left: 50px;
+        padding-top: 25px;
+        padding-bottom: 12px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    .important {
+        width: 266px;
+        height: 84px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 28px;
+        color: #7D7987;
+    }
+
+    .read-more {
+        width: 266px;
+        height: 28px;
+        border: none;
+        margin-top: 25px;
+        padding-right: 52px;
+        font-style: normal;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+        background-color: #fff;
+        color: #4089ED;
+    }
+
+    .vector-img2 {
+        padding-left: 8px;
+    }
+
+    .laboratory-text_info {
+        padding-left: 22px;
+        background: #FFFFFF;
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+        border-radius: 20px;
+    }
+
+    .consumption {
+        width: 265px;
+        height: 64px;
+        padding-top: 25px;
+        padding-bottom: 15px;
+        font-style: normal;
+        font-size: 21px;
+        font-weight: 700;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    .herbel-very {
+        width: 266px;
+        height: 84px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 28px;
+        color: #7D7987;
+    }
+
+    .read-more2 {
+        width: 266px;
+        height: 28px;
+        border: none;
+        margin-top: 22px;
+        padding-right: 15px;
+        font-style: normal;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+        background-color: #fff;
+        color: #4089ED;
+    }
+
+    .info-text_natural {
+        padding-left: 22px;
+        background: #FFFFFF;
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+        border-radius: 20px;
+    }
+
+    .healthy {
+        width: 245px;
+        height: 64px;
+        padding-top: 25px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    .healthy-from {
+        width: 266px;
+        height: 84px;
+        padding-top: 15px;
+        padding-left: 20px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 28px;
+        color: #7D7987;
+    }
+
+    .read-more3 {
+        width: 266px;
+        height: 28px;
+        border: none;
+        margin-top: 22px;
+        padding-right: 35px;
+        font-style: normal;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+        background-color: #fff;
+        color: #4089ED;
+    }
+
+    .view-all {
+        width: 200px;
+        height: 56px;
+        border: 1.4px solid #458FF6;
+        background-color: #fff;
+        border-radius: 55px;
+        text-align: center;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 60px;
+        color: #458FF6;
+    }
+
+    .intradecshin {
+        margin-top: 75px;
+        margin-bottom: 202px;
+        text-align: center;
+    }
+   
